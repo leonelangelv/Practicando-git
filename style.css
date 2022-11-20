@@ -1,4 +1,7 @@
 html{
-  background: blue;
-  color: #000;
+  background: #ffffff;
+  color: rgb(0, 0, 0);
+}
+img {
+  max-width: 100%;
 }
