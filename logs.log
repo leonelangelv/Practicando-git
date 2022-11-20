@@ -1,0 +1,147 @@
+commit 89ade18b670be838f3b699d6f5f4dc2c9723c7ed
+Author: Leonel Angel <leonelgo66@gmail.com>
+Date:   Fri Nov 18 16:39:04 2022 -0300
+
+    Agregando dos parrafos
+
+commit ad285f6d5cabae2b6485d9467deec2b8c75aab8e
+Merge: 181366b 2a9fc17
+Author: Leonel Angel <leonelgo66@gmail.com>
+Date:   Fri Nov 18 16:37:05 2022 -0300
+
+    Resolviendo conflicto en nombrado de los numeros
+
+commit 181366b7f7d939f59917c8915f109c9ebe50d77f
+Author: Leonel Angel <leonelgo66@gmail.com>
+Date:   Fri Nov 18 16:23:06 2022 -0300
+
+    Agregando el num del los numeros
+
+commit 2a9fc172e9e07970178a6dd4e6311a810d45d7a6
+Author: Leonel Angel <leonelgo66@gmail.com>
+Date:   Fri Nov 18 16:23:06 2022 -0300
+
+    Agregando las estaciones del año
+
+commit e2c6cb30d62a1b26a088007cae9375e55dace609
+Merge: e1c9c59 624d99a
+Author: Leonel Angel <leonelgo66@gmail.com>
+Date:   Fri Nov 18 16:17:59 2022 -0300
+
+    Resolviendo conflictos merge main/html en el doc index.html
+
+commit 624d99aca0004fe6c728cae4c6e5467b8c533248
+Author: Leonel Angel <leonelgo66@gmail.com>
+Date:   Fri Nov 18 16:11:19 2022 -0300
+
+    agregando index.js al index.html
+
+commit e1c9c590f8adea3bde4ea53810f051cfed778577
+Author: Leonel Angel <leonelgo66@gmail.com>
+Date:   Fri Nov 18 16:09:28 2022 -0300
+
+    Agregando style.css al index.html
+
+commit 0f10bd5a0e5b48a035076db1c0028960191d0dd6
+Author: Leonel Angel <leonelgo66@gmail.com>
+Date:   Fri Nov 18 16:05:42 2022 -0300
+
+    Fucionado de las ramas
+
+commit eb461a98f11f6504ae57641cb6c7ecdaa4498997
+Merge: d061461 91b9d5a
+Author: Leonel Angel <leonelgo66@gmail.com>
+Date:   Fri Nov 18 16:00:49 2022 -0300
+
+    Merge branch 'js'
+
+commit 91b9d5a8c72ee895562155fb7e146088ee804aea
+Author: Leonel Angel <leonelgo66@gmail.com>
+Date:   Fri Nov 18 15:59:01 2022 -0300
+
+    Agregando index.js
+
+commit d061461d20e8b89f7785bd09eb65b35734a4a322
+Author: Leonel Angel <leonelgo66@gmail.com>
+Date:   Fri Nov 18 15:56:27 2022 -0300
+
+    Agregando style.css
+
+commit 143b2e0b9a4e3587592a584c836765aaba03b5df
+Author: Leonel Angel <leonelgo66@gmail.com>
+Date:   Fri Nov 18 15:54:17 2022 -0300
+
+    Agregando index.html
+
+commit 8dbb94d2210cf5e035fa799f8b97e72f63b32159
+Author: Leonel Angel <leonelgo66@gmail.com>
+Date:   Fri Nov 18 15:50:15 2022 -0300
+
+    Borrando todo
+
+commit f33f676b5f32c1726824c87a233d81b89067ade6
+Author: Leonel Angel <leonelgo66@gmail.com>
+Date:   Fri Nov 18 15:41:39 2022 -0300
+
+    Creando index.html
+
+commit ccdf36a626a89359d639bed890d3007951cca6fd
+Author: Leonel Angel <leonelgo66@gmail.com>
+Date:   Fri Nov 18 15:37:53 2022 -0300
+
+    Agregando style.css a index.html
+
+commit f359f01364108f0f14358985a1850f0784818903
+Merge: c6445ee afc92c2
+Author: Leonel Angel <leonelgo66@gmail.com>
+Date:   Fri Nov 18 15:27:33 2022 -0300
+
+    Merge branch 'js'
+
+commit afc92c2a0402c0939d588c3b698da76461d9ae95
+Author: Leonel Angel <leonelgo66@gmail.com>
+Date:   Fri Nov 18 15:22:24 2022 -0300
+
+    Creando index.js
+
+commit c6445ee23a1e36229679252b6f18ea8af0f90c53
+Author: Leonel Angel <leonelgo66@gmail.com>
+Date:   Fri Nov 18 15:18:24 2022 -0300
+
+    Creando style.css
+
+commit d1c0b8b2fb378a24a2285506ce7fb3440c2d9d29
+Author: Leonel Angel <leonelgo66@gmail.com>
+Date:   Fri Nov 18 15:14:02 2022 -0300
+
+    Creando el index.html
+
+commit 8d6c75a879a8dd73624c42824228f88c445b0880
+Author: Leonel Angel <leonelgo66@gmail.com>
+Date:   Fri Nov 18 14:58:18 2022 -0300
+
+    Ignorando archivos .exe
+
+commit 8b8c21b9026b9a32da7984b7b9359bf4169ac124
+Author: Leonel Angel <114185703+leonelangelv@users.noreply.github.com>
+Date:   Thu Nov 17 18:02:33 2022 -0300
+
+    Creado licencia del repositorio.
+
+commit a97c048d2ac73e8ec9e5b442bafa865190c9da7a
+Author: Leonel Angel <leonelgo66@gmail.com>
+Date:   Thu Nov 17 17:56:33 2022 -0300
+
+    Agregando mas contenidi al README
+
+commit 9b824bdab56e0f1afe7996f7d63d0b1c7a81db1d
+Author: Leonel Angel <leonelgo66@gmail.com>
+Date:   Thu Nov 17 16:52:36 2022 -0300
+
+    Agregando contenido inicial al README
+
+commit 328bbde77090554fe951ce872764bdd7d5588ce6
+Author: Leonel Angel <leonelgo66@gmail.com>
+Date:   Thu Nov 17 16:45:49 2022 -0300
+
+    Primer commit
